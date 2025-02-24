@@ -1,2 +1,2 @@
 # my-first-repository
-welcome
+welcome to my first repository.
